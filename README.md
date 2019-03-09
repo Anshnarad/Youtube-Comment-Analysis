@@ -1,2 +1,4 @@
 # Youtube-Comment-Analysis
-Sentiment analysis of comments on a youtube video.
+Basic sentiment analysis of comments on a youtube video using a builtin python package "Vader Lexicon" and "Youtube Data API".
+
+
